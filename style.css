@@ -16,7 +16,7 @@ body {
     flex-direction: column;
     width: 100%;
     max-width: 1200px;
-    margin: 10rem auto;
+    margin: 8rem auto;
 }
 
 .card-container {
